@@ -1,0 +1,5 @@
+@import "tailwindcss";
+#root {
+  font-family: "M PLUS Rounded 1c", serif !important;
+  font-style: normal !important;
+}
