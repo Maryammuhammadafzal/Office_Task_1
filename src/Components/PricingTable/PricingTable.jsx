@@ -1,5 +1,5 @@
 import React from 'react'
-import Check from "../../assets/Images/Check.png"
+import Check from "../../assets/Images/check.png"
 const PricingTable = () => {
   return (
 
