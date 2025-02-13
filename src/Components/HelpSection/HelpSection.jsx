@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from "../../assets/Images/policyimage1.png"
-import ArrowImage from "../../assets/Images/arrowImage.png"
+import ArrowImage from "../../assets/Images/arrowimage.png"
 import { Link } from 'react-router'
 const HelpSection = () => {
   return (
