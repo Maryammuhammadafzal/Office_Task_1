@@ -6,7 +6,7 @@ import policyImage4 from "../../assets/Images/policyimage4.png"
 import policyImage5 from "../../assets/Images/policyimage5.png"
 import policyImage6 from "../../assets/Images/policyimage6.png"
 
-import ArrowImage from "../../assets/Images/arrowImage.png"
+import ArrowImage from "../../assets/Images/arrowimage.png"
 const PoliciesCard = ({ title, image }) => {
 
     let policyCardData = [
